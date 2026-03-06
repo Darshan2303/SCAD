@@ -1,0 +1,7 @@
+{
+  "name": "SCAD [Supply Chain Analysis Dashboard]",
+  "description": "A comprehensive Supply Chain Analysis Dashboard providing real-time insights, metric trees, network visualization, and AI-powered strategic analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
